@@ -89,7 +89,7 @@ set nowritebackup
 " set term=xterm
 set t_Co=256
 set background=dark
-colorscheme distinguished
+colorscheme desert
 
 " When using tmux/screen, $TERM should be set to screen-256color. this is a
 " fix to use arrow keys correctly

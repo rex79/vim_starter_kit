@@ -1,12 +1,12 @@
 set t_Co=256
 set background=dark
-colorscheme tomorrow-night-bright
+colorscheme desert
 " colorscheme macvim
 
 highlight NonText guifg=#dddddd
 highlight SpecialKey guifg=#dddddd
 
-set guifont=Menlo:h13
+set guifont=Monaco:h11
 set antialias
 set visualbell
 
